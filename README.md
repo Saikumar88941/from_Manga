@@ -3,17 +3,15 @@
 ### haveli
 ___________
 This Restaurant provides nice food likely **Chinese** and **South Indian** which I prefer most of the times.
-
 ---
-* favourite dishes
+* Favourite Dishes
+    * chicken biryani
+    * mutton biryani
+    * egg fry
 
-    1.chicken biryani,
-    2.egg rice,
-    3.veg biryani.
+* Near by locations
+    * okhla bird santuary
+    * nehuru grand park
+    * vishaka waterfalls
 
-* visit nearby locations to Restaurant
-
-    * Ramoji national park,
-    * sathya waterfalls,
-    * okhla bird santuary.
 
