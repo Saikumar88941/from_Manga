@@ -5,11 +5,13 @@ ___________
 This Restaurant provides nice food likely **Chinese** and **South Indian** which I prefer most of the times.
 
 ---
-## favourite dishes
+* favourite dishes
 
-chicken biryani, egg rice and veg biryani.
+    1.chicken biryani,
+    2.egg rice,
+    3.veg biryani.
 
-* visit nearby locations to Reataurant
+* visit nearby locations to Restaurant
 
     * Ramoji national park,
     * sathya waterfalls,
