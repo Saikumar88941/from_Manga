@@ -4,7 +4,8 @@
 ___________
 This Restaurant provides nice food likely **Chinese** and **South Indian** which I prefer most of the times.
 ---
-* Favourite Dishes
+
+## Favourite Dishes
     * chicken biryani
     * mutton biryani
     * egg fry
