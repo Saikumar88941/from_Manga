@@ -9,9 +9,9 @@ This Restaurant provides nice food likely **Chinese** and **South Indian** which
 
 chicken biryani, egg rice and veg biryani.
 
-#### visit nearby places to Reataurant
+* visit nearby locations to Reataurant
 
-Ramoji national park,
-sathya waterfalls,
-okhla bird santuary.
+    * Ramoji national park,
+    * sathya waterfalls,
+    * okhla bird santuary.
 
