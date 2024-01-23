@@ -6,11 +6,11 @@ This Restaurant provides nice food likely **Chinese** and **South Indian** which
 ---
 
 ## Favourite Dishes
-    * chicken biryani
-    * mutton biryani
-    * egg fry
+     1.chicken biryani
+     2.mutton biryani
+     3.egg fry
 
-* Near by locations
+## Near by locations
     * okhla bird santuary
     * nehuru grand park
     * vishaka waterfalls
