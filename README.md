@@ -28,4 +28,14 @@ This Restaurant provides nice food likely **Chinese** and **South Indian** which
 |Indira Gandhi|paints Gandhi's political trajectory, from her initial entry into politics to her rise to becoming the prime minister|Pupul Jayakar|
 |The Alchemist|the story of a young Andalusian shepherd, who travels to the pyramids of Egypt to find a treasure he has recurrently dreamed about|Paulo Coelho|
 
+## Favourite Quoates
+
+
+>Do or Die.
+*Mahathma Gandhi
+
+>Life is like riding a bicycle. To keep your balance, you must keep moving.
+*Albert Einstein
+
+
 
