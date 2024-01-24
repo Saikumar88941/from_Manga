@@ -36,5 +36,21 @@ This Restaurant provides nice food likely **Chinese** and **South Indian** which
 >Life is like riding a bicycle. To keep your balance, you must keep moving.
 * *Albert Einstein*
 
+# Code Fencing
+### Code fencing
+ 
+Get information about all CPUs available using the os module.
+
+```
+const intersection = (a, b) => {
+  const s = new Set(b);
+
+  return a.filter(x => s.has(x));
+};
+
+```
+
+Link to snippet source is <https://code.pieces.app/collections/javascript>
+
 
 
