@@ -37,7 +37,6 @@ This Restaurant provides nice food likely **Chinese** and **South Indian** which
 * *Albert Einstein*
 
 # Code Fencing
-### Code fencing
  
 Get information about all CPUs available using the os module.
 
