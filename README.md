@@ -32,10 +32,9 @@ This Restaurant provides nice food likely **Chinese** and **South Indian** which
 
 
 >Do or Die.
-*Mahathma Gandhi
-
+* *Mahathma Gandhi*
 >Life is like riding a bicycle. To keep your balance, you must keep moving.
-*Albert Einstein
+* *Albert Einstein*
 
 
 
